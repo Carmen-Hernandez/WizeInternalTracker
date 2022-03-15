@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yI8jg6ilpIwRGUkOs/SHIRbqZDKZ0oDc1+8LHu2Bt23D66pdHcaEvq8qTnMSn3eS4kpLS/fCPUUxFcleMp/2Fg==",
+  "dgSpecHash": "1r/r+SsAMiTSV0rOeI8YPZGVR+9AU7MEZbkVk/Xhh0ewn4jbX7kx49joqgZDDDqGsfr1OXJX5nNWBjaGiZjxDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\btwomey\\source\\repos\\WizeTrackerSolution\\WizeTrackerSolution\\WizeTrackerSolution.csproj",
+  "projectFilePath": "C:\\Users\\btwomey\\source\\repos\\WizeTrackerMain\\WizeTrackerSolution\\WizeTrackerSolution.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\btwomey\\.nuget\\packages\\azure.core\\1.17.0\\azure.core.1.17.0.nupkg.sha512",
     "C:\\Users\\btwomey\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",

@@ -2210,11 +2210,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\btwomey\\source\\repos\\WizeTrackerSolution\\WizeTrackerSolution\\WizeTrackerSolution.csproj",
+      "projectUniqueName": "C:\\Users\\btwomey\\source\\repos\\WizeTrackerMain\\WizeTrackerSolution\\WizeTrackerSolution.csproj",
       "projectName": "WizeTrackerSolution",
-      "projectPath": "C:\\Users\\btwomey\\source\\repos\\WizeTrackerSolution\\WizeTrackerSolution\\WizeTrackerSolution.csproj",
+      "projectPath": "C:\\Users\\btwomey\\source\\repos\\WizeTrackerMain\\WizeTrackerSolution\\WizeTrackerSolution.csproj",
       "packagesPath": "C:\\Users\\btwomey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\btwomey\\source\\repos\\WizeTrackerSolution\\WizeTrackerSolution\\obj\\",
+      "outputPath": "C:\\Users\\btwomey\\source\\repos\\WizeTrackerMain\\WizeTrackerSolution\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\btwomey\\AppData\\Roaming\\NuGet\\NuGet.Config",
