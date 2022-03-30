@@ -2205,19 +2205,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\btwomey\\.nuget\\packages\\": {}
+    "C:\\Users\\ghernandezsanchez\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\btwomey\\source\\repos\\WizeTrackerMain\\WizeTrackerSolution\\WizeTrackerSolution.csproj",
+      "projectUniqueName": "C:\\Users\\ghernandezsanchez\\Source\\Repos\\WizeTracker\\WizeTrackerSolution\\WizeTrackerSolution.csproj",
       "projectName": "WizeTrackerSolution",
-      "projectPath": "C:\\Users\\btwomey\\source\\repos\\WizeTrackerMain\\WizeTrackerSolution\\WizeTrackerSolution.csproj",
-      "packagesPath": "C:\\Users\\btwomey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\btwomey\\source\\repos\\WizeTrackerMain\\WizeTrackerSolution\\obj\\",
+      "projectPath": "C:\\Users\\ghernandezsanchez\\Source\\Repos\\WizeTracker\\WizeTrackerSolution\\WizeTrackerSolution.csproj",
+      "packagesPath": "C:\\Users\\ghernandezsanchez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ghernandezsanchez\\Source\\Repos\\WizeTracker\\WizeTrackerSolution\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\btwomey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ghernandezsanchez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2288,7 +2293,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
